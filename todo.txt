@@ -1,2 +1,2 @@
-1. Main version - amended
+Базовая строка
 
